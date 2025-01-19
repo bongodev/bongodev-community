@@ -17,6 +17,6 @@ export const profileCardData = [{
     github: "https://github.com/sumiyayasmin",
     portfolio: "https://sumiyayasmin.com",
   },
-
+ 
  
 },]
