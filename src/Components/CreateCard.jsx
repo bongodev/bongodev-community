@@ -1,4 +1,3 @@
-import PropTypes from "prop-types";
 import { Images } from "./Images"
 import { SocialAccounts } from "./Socials"
 
@@ -11,15 +10,4 @@ export function CreateCard({cardData}) {
           <SocialAccounts socials={cardData.socials}/>
           </div>
   )
-}
-CreateCard.propTypes ={
-    cardData: PropTypes.shape({
-        name: PropTypes.string.isRequired,
-        about : PropTypes.string.isRequired,
-        socials: PropTypes.shape({
-            linkedin: PropTypes.string.isRequired,
-            github: PropTypes.string.isRequired,
-            portfolio: PropTypes.string.isRequired,
-          }).isRequired,
-        }).isRequired,
 }

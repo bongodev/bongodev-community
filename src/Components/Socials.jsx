@@ -26,10 +26,3 @@ export function SocialAccounts({socials}){
     </div>
     )
 }
-SocialAccounts.propTypes = {
-  socials: PropTypes.shape({
-    linkedin: PropTypes.string.isRequired,
-    github: PropTypes.string.isRequired,
-    portfolio: PropTypes.string.isRequired,
-  }).isRequired,
-};
