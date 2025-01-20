@@ -1,3 +1,4 @@
+import PropTypes from "prop-types";
 const socialPlatforms = [
      {
         name: 'linkedin',
