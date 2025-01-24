@@ -1,0 +1,98 @@
+export const projects = [
+  {
+    name: 'Counter App',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Number Comparator',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Grade Calculator',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Number Table',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Number Table of 1-10',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Employee Management',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Simple E-commerce',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+  {
+    name: 'Render Products (Promise, async-await)',
+    contributors: [
+      'bongoDev',
+      'talha',
+      'nazma',
+      'abu taher',
+      'promi',
+      'shobuz',
+      'sumaiya',
+    ],
+  },
+];
