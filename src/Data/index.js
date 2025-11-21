@@ -21,4 +21,15 @@ export const profileCardData = [
       portfolio: 'https://sumiyayasmin.com',
     },
   },
+  {
+    image: 'https://yt3.googleusercontent.com/g1e-KelWP9FdSfT8CtrvbeTFUeaiIhfv5Ul50-PeD42q1thxpDP5oRjYXydFqfHxHr7CsAtlTQ=s160-c-k-c0x00ffffff-no-rj',
+    name: 'Parisa Reza',
+    about: 'Exploring Tech | Python & Javascript Programmer',
+    background: 'bg-red-200',
+    socials: {
+      linkedin: 'https://www.linkedin.com/in/parisa-reza/',
+      github: 'https://github.com/Parisa-Reza',
+      portfolio: 'https://parisa-reza.github.io/Parisa-Reza-Portfolio/',
+    },
+  },
 ];
