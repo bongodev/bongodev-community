@@ -32,4 +32,15 @@ export const profileCardData = [
       portfolio: 'https://parisa-reza.github.io/Parisa-Reza-Portfolio/',
     },
   },
+  {
+    image: 'https://jubayar-portfolio.netlify.app/images/me2.webp',
+    name: 'Jubayar Ahamad',
+    about: 'I’m passionate about learning, solving problems, and creating applications that make an impact.',
+    background: 'bg-rose-200',
+    socials: {
+      linkedin: 'https://www.linkedin.com/in/jubayar-ahamad-find/',
+      github: 'https://github.com/yet-yuvi',
+      portfolio: 'https://jubayar-portfolio.netlify.app/',
+    },
+  },
 ];
