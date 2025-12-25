@@ -21,6 +21,8 @@ export function SocialAccounts({ socials, portfolioName}) {
           key={social.name}
           className="flex justify-center items-center gap-1 p-2 rounded-md hover:bg-[#5495d6] hover:text-white"
           href={socials[social.name]}
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <i className={social.class}></i>
           <p> {social.name === 'portfolio' ? portfolioName : social.name}</p>
